@@ -8,6 +8,18 @@ packages = [{include = "safecrew_t4"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+jupyter = "^1.1.1"
+pandas = "^2.2.3"
+numpy = "^2.2.4"
+matplotlib = "^3.10.1"
+statsmodels = "^0.14.4"
+seaborn = "^0.13.2"
+openpyxl = "^3.1.5"
+scipy = "^1.15.2"
+scikit-learn = "^1.6.1"
+prophet = "^1.1.6"
+plotly = "^6.0.1"
+pymannkendall = "^1.4.3"
 
 
 [build-system]
